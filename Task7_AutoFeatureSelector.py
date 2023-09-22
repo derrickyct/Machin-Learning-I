@@ -1,3 +1,6 @@
+# Student Name: Chun Ting Yiu
+# Studen ID: 101521540
+
 import numpy as np
 import pandas as pd 
 import seaborn as sns
