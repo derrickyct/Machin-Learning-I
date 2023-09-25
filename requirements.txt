@@ -1,0 +1,7 @@
+pandas
+plotly
+matplotlib
+scikit-learn
+bs4
+seaborn
+lightgbm
