@@ -5,3 +5,6 @@ scikit-learn
 bs4
 seaborn
 lightgbm
+sympy
+catboost
+xgboost
